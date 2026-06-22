@@ -71,7 +71,7 @@ tasmim_lead_scoring/
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/MediMor710/tasmim_lead_scoring.git
+git clone https://github.com/mediMor710/tasmim_lead_scoring.git
 cd tasmim_lead_scoring
 ```
 
