@@ -1,0 +1,23 @@
+artifact_path: /mnt/c/Users/hp/Documents/tasmim_lead_scoring/mlruns/1/models/m-27d48b6cca5444b3893f10ccf939214f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-27d48b6cca5444b3893f10ccf939214f
+model_size_bytes: 10490476
+model_uuid: m-27d48b6cca5444b3893f10ccf939214f
+prompts: null
+run_id: 335561a3de3c4addb8befc3a4dedd08c
+utc_time_created: '2026-06-07 01:25:48.800216'
